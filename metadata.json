@@ -1,0 +1,6 @@
+{
+  "name": "Sushi Store — Доставка суши и пиццы",
+  "description": "Быстрый заказ суши, роллов, сетов, комбо и пиццы в Кызыл-Кие и Кадамжае через WhatsApp. Работаем ежедневно с 11:00 до 00:00.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
